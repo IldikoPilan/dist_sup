@@ -1,0 +1,10 @@
+Hypertensjon
+
+Kort oppsummering
+Diagnostikk: Klinisk undersøkelse. Ev. hjemmeblodtrykksmåling eller 24-timer blodtrykksregistrering. EKG, ev. ekkokardiografi. Lab: Hb, Na, K, glukose, urinsyre, kreatinin, total-, LDL-, HDL kolesterol, triglyserider, ev. T4, TSH. Urin: albumin/kreatinin-ratio, urinstiks, ev. mikroskopi. Ved mistanke om sekundær HT: aldosteron i serum, metanefrin og normetanefrin i plasma, røntgenologisk diagnostikk av nyrearteriene, alternativt isotop-renografi. I en del tilfeller med såkalt refraktær hypertensjon er manglende compliance med medikamenter en viktig årsak.
+
+Definisjon: Grenseverdien ved kontormåling: 140/90 mm Hg. Grenseverdiene ved 24-timers BT: 130/80 mm Hg (dagtid > 135/85 mm Hg og på natt > 120/70 mm Hg). Behandlingsmål: kontorblodtrykket < 140/90 mm Hg (24-timers målinger < 130/80), ved diabetes < 135/80.
+
+Indikasjon for behandling: Systolisk BT ≥ 160 mm Hg og/eller diastolisk trykk ≥ 100 mm Hg. Ved BT < 160/100 mm Hg: vurder risikotabell for å avgjøre indikasjonen for behandling. Ved tvil, bedømme ev. organskade. Eldre: viktig å bedømme tegn til organskade. Når organskade er til stede, er behandlingsgrensene som for yngre individer. Hos eldre: Signifikant isolert systolisk hypertensjon (> 160 mm Hg) vil kunne ha nytte av legemiddelbehandling selv om diastolisk trykk er < 90 mm Hg.
+
+Legemiddelbehandling: Legemiddelgrupper vurdert som likeverdige: ACE-hemmere, angiotensin II-antagonister, kalsiumantagonister og tiazider. Betareseptorantagonister brukes som supplerende behandling, men er ikke førstevalg ved ukomplisert HT.

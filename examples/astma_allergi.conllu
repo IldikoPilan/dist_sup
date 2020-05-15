@@ -1,0 +1,163 @@
+# newdoc
+# newpar
+# sent_id = 1
+1	Astma	Astma	PROPN	_	_	0	root	_	_
+2	og	og	CCONJ	_	_	3	cc	_	_
+3	allergi	allergi	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	1	conj	_	_
+
+# newpar
+# sent_id = 2
+1	Astma	Astma	PROPN	_	_	7	nsubj	_	_
+2	og	og	CCONJ	_	_	3	cc	_	_
+3	allergi	allergi	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	1	conj	_	_
+4	er	være	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	_
+5	en	en	DET	_	Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	hyppig	hyppig	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	7	amod	_	_
+7	årsak	årsak	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+8	til	til	ADP	_	_	9	case	_	_
+9	plager	plage	NOUN	_	Definite=Ind|Gender=Fem|Number=Plur	7	nmod	_	_
+10	hos	hos	ADP	_	_	11	case	_	_
+11	barn	barn	NOUN	_	Definite=Ind|Gender=Neut|Number=Plur	9	nmod	_	_
+12	og	og	CCONJ	_	_	13	cc	_	_
+13	unge	unge	ADJ	_	Degree=Pos|Number=Plur	11	conj	_	_
+14	i	i	ADP	_	_	16	case	_	_
+15	industrialiserte	industrialisere	ADJ	_	Number=Plur|VerbForm=Part	16	amod	_	_
+16	land.	land.	NOUN	_	Abbr=Yes	13	obl	_	_
+
+# sent_id = 3
+1	Om	om	ADP	_	_	2	case	_	_
+2	lag	lag	NOUN	_	Definite=Ind|Gender=Neut|Number=Sing	3	obl	_	_
+3	fem	fem	NUM	_	Number=Plur|NumType=Card	4	nummod	_	_
+4	prosent	prosent	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	8	nsubj	_	_
+5	av	av	ADP	_	_	7	case	_	_
+6	unge	ung	ADJ	_	Degree=Pos|Number=Plur	7	amod	_	_
+7	voksne	voksen	ADJ	_	Degree=Pos|Number=Plur	4	amod	_	_
+8	har	ha	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	19	advcl	_	_
+9	behov	behov	NOUN	_	Definite=Ind|Gender=Neut|Number=Sing	8	obj	_	_
+10	for	for	ADP	_	_	11	case	_	_
+11	legemidler	legemiddel	NOUN	_	Definite=Ind|Gender=Neut|Number=Plur	9	nmod	_	_
+12	mot	mot	ADP	_	_	13	case	_	_
+13	astma,	$astma,	PUNCT	_	_	11	nmod	_	_
+14	hos	hos	ADP	_	_	15	case	_	_
+15	barn	barn	NOUN	_	Definite=Ind|Gender=Neut|Number=Plur	13	obl	_	_
+16	er	være	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	19	cop	_	_
+17	andelen	andele	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	19	nsubj	_	_
+18	noe	noen	DET	_	Gender=Neut|Number=Sing|PronType=Ind	19	det	_	_
+19	høyere	høy	ADJ	_	Degree=Cmp	0	root	_	_
+20	enn	enn	ADP	_	_	21	case	_	_
+21	dette.	dette.	ADV	_	Abbr=Yes	19	advmod	_	_
+
+# sent_id = 4
+1	Omtrent	omtrent	ADV	_	_	2	advmod	_	_
+2	25	25	NUM	_	Number=Plur|NumType=Card	3	nummod	_	_
+3	prosent	prosent	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	15	nsubj	_	_
+4	av	av	ADP	_	_	5	case	_	_
+5	barn	barn	NOUN	_	Definite=Ind|Gender=Neut|Number=Plur	3	nmod	_	_
+6	i	i	ADP	_	_	7	case	_	_
+7	skolealder	skolealde	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	5	nmod	_	_
+8	og	og	CCONJ	_	_	10	cc	_	_
+9	30	30	NUM	_	Number=Plur|NumType=Card	10	nummod	_	_
+10	prosent	prosent	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	3	conj	_	_
+11	av	av	ADP	_	_	12	case	_	_
+12	unge	ung	ADJ	_	Degree=Pos|Number=Plur	10	amod	_	_
+13	i	i	ADP	_	_	14	case	_	_
+14	puberteten	pubertet	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	12	nmod	_	_
+15	har	ha	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+16	allergisk	allergisk	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	17	amod	_	_
+17	sykdom.	sykdom.	NOUN	_	Abbr=Yes	15	obj	_	_
+
+# sent_id = 5
+1	Før	før	ADP	_	_	2	case	_	_
+2	puberteten	pubertet	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	3	obl	_	_
+3	er	være	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
+5	flere	mange	ADJ	_	Degree=Cmp	6	amod	_	_
+6	gutter	gutt	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	3	nsubj	_	_
+7	enn	enn	ADP	_	_	8	case	_	_
+8	jenter	jente	NOUN	_	Definite=Ind|Gender=Fem|Number=Plur	3	obl	_	_
+9	som	som	PRON	_	PronType=Rel	10	nsubj	_	_
+10	har	ha	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
+11	astma	astma	NOUN	_	Definite=Ind|Gender=Neut|Number=Sing	10	obj	_	_
+12	og	og	CCONJ	_	_	13	cc	_	_
+13	allergi,	$allergi,	PUNCT	_	_	21	punct	_	_
+14	men	men	CCONJ	_	_	21	cc	_	_
+15	i	i	ADP	_	_	17	case	_	_
+16	voksen	voksen	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	17	amod	_	_
+17	alder	alder	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	21	obl	_	_
+18	er	være	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	21	cop	_	_
+19	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	21	expl	_	_
+20	flere	mange	ADJ	_	Degree=Cmp	21	amod	_	_
+21	kvinner	kvinne	NOUN	_	Definite=Ind|Gender=Fem|Number=Plur	10	conj	_	_
+22	som	som	PRON	_	PronType=Rel	24	nsubj	_	_
+23	er	være	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	24	cop	_	_
+24	rammet.	rammet.	ADV	_	Abbr=Yes	21	acl:cleft	_	_
+
+# sent_id = 6
+1	Hos	hos	ADP	_	_	2	case	_	_
+2	barn	barn	NOUN	_	Definite=Ind|Gender=Neut|Number=Plur	7	obl	_	_
+3	er	være	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	_
+4	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	expl	_	_
+5	en	en	DET	_	Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	stor	stor	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	7	amod	_	_
+7	grad	grad	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+8	av	av	ADP	_	_	9	case	_	_
+9	samsykelighet	samsykelighet	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	7	nmod	_	_
+10	mellom	mellom	ADP	_	_	11	case	_	_
+11	astma	astma	NOUN	_	Definite=Ind|Gender=Neut|Number=Sing	9	nmod	_	_
+12	og	og	CCONJ	_	_	14	cc	_	_
+13	allergiske	allergisk	ADJ	_	Degree=Pos|Number=Plur	14	amod	_	_
+14	sykdommer.	sykdommer.	NOUN	_	Abbr=Yes	11	conj	_	_
+
+# sent_id = 7
+1	Med	med	ADP	_	_	2	case	_	_
+2	unntak	unntak	NOUN	_	Definite=Ind|Gender=Neut|Number=Sing	10	obl	_	_
+3	av	av	ADP	_	_	5	case	_	_
+4	yrkesrelatert	yrkesrelatere	ADJ	_	Definite=Ind|Gender=Neut|Number=Sing|VerbForm=Part	5	amod	_	_
+5	astma	astma	NOUN	_	Definite=Ind|Gender=Neut|Number=Sing	2	nmod	_	_
+6	og	og	CCONJ	_	_	7	cc	_	_
+7	allergi	allergi	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	5	conj	_	_
+8	er	være	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	_
+9	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	expl	_	_
+10	per	per	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	i	i	ADP	_	_	12	case	_	_
+12	dag	dag	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	10	obl	_	_
+13	ingen	ingen	DET	_	Number=Plur|Polarity=Neg|PronType=Neg	15	det	_	_
+14	kjente	kjent	ADJ	_	Degree=Pos|Number=Plur	15	amod	_	_
+15	tiltak	tiltak	NOUN	_	Definite=Ind|Gender=Neut|Number=Plur	10	obj	_	_
+16	som	som	PRON	_	PronType=Rel	18	nsubj	_	_
+17	kan	kunne	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	18	aux	_	_
+18	forebygge	forebygge	VERB	_	VerbForm=Inf	15	acl:relcl	_	_
+19	utvikling	utvikling	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	18	obj	_	_
+20	av	av	ADP	_	_	21	case	_	_
+21	astma	astma	NOUN	_	Definite=Def|Gender=Fem|Number=Sing	19	nmod	_	_
+22	og	og	CCONJ	_	_	23	cc	_	_
+23	allergi.	allergi.	ADV	_	Abbr=Yes	18	conj	_	_
+
+# sent_id = 8
+1	Luftveisinfeksjoner,	luftveisinfeksjoner,	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+2	eksponering	eksponering	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	1	obj	_	_
+3	for	for	ADP	_	_	4	case	_	_
+4	allergener	allergener	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	2	nmod	_	_
+5	og	og	CCONJ	_	_	6	cc	_	_
+6	miljøfaktorer	miljøfaktor	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	4	conj	_	_
+7	som	som	PRON	_	PronType=Rel	19	nsubj	_	_
+8	blant	blant	ADP	_	_	9	case	_	_
+9	annet	annen	DET	_	Definite=Ind|Gender=Neut|Number=Sing|PronType=Dem	19	obl	_	_
+10	sigarettrøyk,	$sigarettrøyk,	PUNCT	_	_	11	punct	_	_
+11	svevestøv	svevestøv	NOUN	_	Definite=Ind|Gender=Neut|Number=Sing	9	appos	_	_
+12	og	og	CCONJ	_	_	15	cc	_	_
+13	eksos,	$eksos,	PUNCT	_	_	15	punct	_	_
+14	samt	samt	CCONJ	_	_	15	cc	_	_
+15	kjemikalier	kjemikalie	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	11	conj	_	_
+16	fra	fra	ADP	_	_	17	case	_	_
+17	forbrukerprodukter	forbrukerprodukt	NOUN	_	Definite=Ind|Gender=Fem|Number=Plur	15	obl	_	_
+18	kan	kunne	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	19	aux	_	_
+19	forverre	forverre	VERB	_	VerbForm=Inf	6	acl:relcl	_	_
+20	symptomene	symptom	NOUN	_	Definite=Def|Gender=Neut|Number=Plur	19	obj	_	_
+21	hos	hos	ADP	_	_	22	case	_	_
+22	de	de	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	19	obl	_	_
+23	som	som	PRON	_	PronType=Rel	26	nsubj	_	_
+24	allerede	allerede	ADV	_	_	26	advmod	_	_
+25	er	være	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	26	cop	_	_
+26	syke.	syke.	NOUN	_	Abbr=Yes	22	acl:relcl	_	_
+
