@@ -9,8 +9,8 @@ The underlying lexical resource is [NorMedTerm](https://github.com/ltgoslo/NorMe
 
 ## Lexical baseline
 
-Baseline tagging relying on lexical match with terms from NorMedTerm. Performs optional pre-processing and statistical analysis of the tagged entities.
-The 'examples' folder includes some example medical texts from [Legemiddelhåndboka](https://www.legemiddelhandboka.no/).
+Baseline tagging relying on lexical match with terms from NorMedTerm. Performs optional pre-processing and statistical analysis of the tagged entities. The longest possible match is taken. NER tags are added as an additional column at the end of each line.
+The 'examples' folder includes some parsed (.conllu) and tagged (.ner) files of medical texts from [Legemiddelhåndboka](https://www.legemiddelhandboka.no/).
 
 ### Example runs
 

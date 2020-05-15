@@ -36,7 +36,7 @@ def baseline_tag(tokenized_f, ordered_terms, out_file, tkn_col=1, lower=True):
     Performs lexical baseline tagging with the BIO-scheme and saves output.
     Adds token-level entity annotation based on matches with the provided 
     term list. Takes the longest possible match. 
-    Annotations are added as an additional column at the end of each line.
+    Tags are added as an additional column at the end of each line.
     """
     stop_words = ['av', 'i', 'på', 'til', 'hos']
     out = ''
