@@ -88,17 +88,19 @@ def parse_args():
     """ Parse command-line arguments.
     """
     parser = argparse.ArgumentParser()
-    parser.add_argument('--input', '-i', help="path to directory with .txt or .conllu/.vert file(s)", type=str, 
-                        required=True)
+    parser.add_argument('--input', '-i', help="path to directory with .txt or .conllu/.vert \
+                                               file(s)", type=str, required=True)
     # optional args
-    parser.add_argument('--actions', '-a', help="'p' (parsing), 't' (tagging), 's' (statistics), 'pt', 'pts'(default) or 'ts'",
+    parser.add_argument('--actions', '-a', help="'p' (parsing), 't' (tagging), 's' (statistics), \
+                                                'pt', 'pts'(default) or 'ts'",
                         type=str, default='pts')
-    parser.add_argument('--column', '-c', help="column index of tokens in .conllu/.vert files (default=1)",
-                        type=int, default=1)
-    parser.add_argument('--entities', '-e', help="entities to use from NorMedTerm (all by default)", type=str, 
-                        default=','.join(ent_categories))
-    parser.add_argument('--input_format', '-if', help="format of raw text files: 'conllu'(default),'horizontal','vertical' or 'tokenize'", type=str, 
-                        default='horizontal')
+    parser.add_argument('--column', '-c', help="column index of tokens in .conllu/.vert files \
+                                                (default=1)", type=int, default=1)
+    parser.add_argument('--entities', '-e', help="entities from NorMedTerm (all by default)", 
+                        type=str, default=','.join(ent_categories))
+    parser.add_argument('--input_format', '-if', help="format of raw text files: 'conllu'(default), \
+                                                       'horizontal', 'vertical' or 'tokenize'", 
+                        type=str, default='horizontal')
     parser.add_argument('--lower', '-l', help="lowercase during term-matching",
                         type=bool, default=True)
     parser.add_argument('--model', '-m', help="path to Norwegian UDPipe model",
